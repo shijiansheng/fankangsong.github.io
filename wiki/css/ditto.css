@@ -1,7 +1,7 @@
 html,body{
     margin: 0;
     padding: 0;
-    height: 100%;
+    min-height: 100%;
     font: 14px/1.5 Georgia, 'Times New Roman', Times, serif;
     color: #555
 }
@@ -12,12 +12,18 @@ a{
 a:hover{
     color: red
 }
+hr{
+    height: 0;
+    line-height: 0;
+    font-size: 0;
+    border-width: 0 0 1px 0;
+    border-style: solid;
+    border-color: #ccc;
+}
 
-#sidebar {
-    width: 220px;
+.sidebar {
+    width: 240px;
     height: 100%;
-    padding-left: 20px;
-    padding-right: 10px;
     overflow-x: hidden;
     overflow-y: auto;
    
@@ -26,27 +32,42 @@ a:hover{
     background-color: #444;
     color: #eee
 }
-#sidebar ul:last-child{
+.sidebar #sidebar{
     padding-bottom: 50px;
+    padding-left: 30px;
+    padding-right: 10px;
 }
-#sidebar ul,
-#sidebar li{
+.sidebar h1,
+.sidebar h2,
+.sidebar h3,
+.sidebar hr{
+    margin-left: -20px;
+}
+.sidebar ul,
+.sidebar li{
     margin: 0;
     padding: 0;
     list-style: none
 }
-#sidebar li:before{
-    content: "-";
-    margin-right: 10px;
+.sidebar li{
+    list-style: disc;
 }
-#sidebar a,
-#sidebar a:hover{
-    color: #ccc;
+.sidebar li li{
+    list-style: decimal; 
+}
+.sidebar a{
+    color: #eee;
     text-decoration: none;
 }
+.sidebar a:hover{
+    color: #999;
+}
+.sidebar li  ul{
+    margin-left: 20px
+}
 
 
-#content {
+.content {
 
     margin-left: 260px;
     margin-right: 20px;
@@ -119,26 +140,23 @@ input[type=search] {
 
 
 }
-
-.fragments {
+.search_results ul,
+.search_results li{
     margin: 0;
-    padding: 10px;
-    /* border: 1px solid #777; */
-    /* border-radius: 5px; */
+    padding: 0;
+    list-style: none
 }
 
-.fragment {
-    padding-left: 10px;
-    padding-right: 10px;
-    padding-top: 0px;
-    padding-bottom: 0px;
-
-    /* border: 1px solid #777; */
-    /* border-radius: 5px; */
-}
 
 .search_results .link {
     margin-top: 35px;
+    font-style: 16px;
+    font-weight: bold;
+    text-decoration: underline;
+    cursor: pointer;
+}
+.search_results .link:hover{
+    color: red
 }
 
 

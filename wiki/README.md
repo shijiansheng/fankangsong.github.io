@@ -1,5 +1,4 @@
 
-
 ## 手册
 
 [CSS速查表](/tools/css-cheat-sheet) / [caniuser](//caniuse.com) / [css family中文对照](/tools/css-family-chinese.html) / [前端技能汇总](https://github.com/JacksonTian/fks) / [HTML head头标签](http://fex.baidu.com/blog/2014/10/html-head-tags/)
@@ -21,3 +20,9 @@
 ## 移动
 
 - [移动开发工具整理](https://github.com/jtyjty99999/mobileTech)
+=======
+# 前段开发仓库
+
+## 手册
+
+| [jQuery API 1.9](http://www.css88.com/jqapi-1.9/) || [zepto API](http://www.css88.com/doc/zeptojs_api/) ||

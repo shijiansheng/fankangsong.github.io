@@ -164,3 +164,20 @@ input[type=search] {
 #hide {
     display: none;
 }
+
+
+table{
+    border-collapse: collapse;
+}
+table thead th{
+    background-color: #1f1f1f;
+}
+table th,
+table td{
+    padding: 4px 8px;
+    border: 1px solid #ccc;
+}
+
+
+
+

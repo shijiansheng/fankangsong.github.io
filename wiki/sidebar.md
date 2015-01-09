@@ -19,7 +19,7 @@
 - [shell 脚本](#docs/linux/shell 脚本)
 - [windows_下_nginx启动、停止命令](#docs/linux/windows_下_nginx启动、停止命令)
 - [一键安装PPTPD VPN](#docs/linux/一键安装PPTPD VPN)
-- [使用lrzsz在终端上传下载文件](#docs/linix/使用lrzsz在终端上传下载文件.md)
+- [使用lrzsz在终端上传下载文件](#docs/linix/使用lrzsz在终端上传下载文件)
 
 ## 工具
 - [我的工具](#docs/tools/我的工具)

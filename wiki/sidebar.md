@@ -1,7 +1,4 @@
 # [wiki]()
-version 0.1
-
-- [Github Repository](http://github.com/fankangsong/fankangsong.github.io/)
 
 [ditto:searchbar]
 
@@ -13,7 +10,7 @@ version 0.1
 - [移动端浏览器长按链接弹框](#docs/html-css/移动端浏览器长按链接弹框)
 
 ## JavaScript
-- [微信相关](#docs/javascrpt/微信相关)
+- [微信相关](#docs/javascript/微信相关)
 
 ## Linux
 - [denyhosts屏蔽本地ip的解决办法](#docs/linux/denyhosts屏蔽本地ip的解决办法)

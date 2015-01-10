@@ -95,7 +95,7 @@ function init_searchbar() {
     var match = "[ditto:searchbar]";
 
     // html input searchbar
-    var search = "<input name='" + ditto.search_name + "'";
+    var search = "<input name='" + ditto.search_name + "'" + "placeholder='search'";
     search = search + " type='search'";
     search = search + " results='10'>";
 
@@ -156,7 +156,7 @@ function build_result_matches_html(matches) {
 function display_search_results(data) {
     var results_html = "<h1>Search Results</h1>";
 
-    console.log(data);
+    //console.log(data);
 
     if (data.items.length) {
         $(ditto.error_id).hide();
@@ -267,11 +267,13 @@ function normalize_paths() {
     // images
     $(ditto.content_id + " img").map(function() {
         var src = $(this).attr("src").replace("./", "");
-        if ($(this).attr("src").slice(0, 5) !== "http") {
+
+
+        if ($(this).attr("src").indexOf("http") != 0) {
             var url = location.hash.replace("#", "");
 
             // split and extract base dir
-            console.log(url);
+            //console.log(url);
             url = url.split("/");
             var base_dir = url.slice(0, url.length - 1).join("/");
 

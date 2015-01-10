@@ -2,7 +2,7 @@ html,body{
     margin: 0;
     padding: 0;
     min-height: 100%;
-    font: 14px/1.5 Georgia, 'Times New Roman', Times, serif;
+    font: 14px/1.5 san-serif;
     color: #555
 }
 
@@ -25,7 +25,6 @@ strong{
     color: #000;
     font-weight: bold
 }
-
 code{
     color: #c7254e;
     background-color: #f9f2f4;
@@ -35,23 +34,25 @@ code{
 pre > code{
 
 }
+h1,h2,h3,h4,h5,h6{
+    color: #000
+}
 
 .sidebar {
-    width: 240px;
+    width: 320px;
     height: 100%;
     overflow-x: hidden;
     overflow-y: auto;
    
     position: fixed;
     font-size: 12px;
-    background-color: #111;
+    background-color: #333;
     color: #ccc;
     font-family: sans-serif;
+    font-weight: bold
 }
 .sidebar #sidebar{
     padding-bottom: 50px;
-    padding-left: 30px;
-    padding-right: 10px;
 }
 .sidebar h1,
 .sidebar h2,
@@ -59,40 +60,34 @@ pre > code{
     font-size: 14px;
     margin-top: 10px;
     margin-bottom: 10px;
-    margin-left: -20px;
-    
-    font-weight: bold
-
+    padding: 0 10px;
+    color: #ccc;
+    font-weight: bold;
+    background-color: rgba(0, 0, 0, .1)
 }
 .sidebar hr{
-    margin-left: -20px
 }
-.sidebar ul,
-.sidebar li{
-    margin: 0;
+.sidebar ul{
+    margin: 0 10px 10px 25px;
     padding: 0;
-    list-style: none
-}
-.sidebar li{
     list-style: disc;
 }
-.sidebar li li{
-    list-style: decimal; 
+.sidebar li ul{
+    list-style: circle;
+    margin-left: 15px;
 }
 .sidebar a{
     color: #999;
     text-decoration: none;
+    font-weight: 100
 }
 .sidebar a:hover{
-    color: #eee;
-}
-.sidebar li  ul{
-    margin-left: 20px
+    color: #f9f9f9;
 }
 
 
 .content {
-    margin-left: 260px;
+    margin-left: 340px;
     margin-right: 20px;
     padding-top: 10px;
     padding-bottom: 150px;
@@ -155,6 +150,8 @@ input[type=search] {
     border: 1px solid #ccc;
     text-align: left;
     border-radius: 3px;
+    margin-left: 25px;
+    outline: none
 }
 
 .search_results{

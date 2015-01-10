@@ -48,7 +48,7 @@ function initialize() {
 }
 
 function init_sidebar_section() {
-    $.get(ditto.sidebar_file, function(data) {
+    $.get(ditto.sidebar_file + "?v=" + Math.random(), function(data) {
         $(ditto.sidebar_id).html(marked(data));
 
         if (ditto.searchbar) {
@@ -83,7 +83,7 @@ function init_edit_button() {
                 hash = "/" + ditto.index.replace(".md", "");
             }
 
-            window.open(ditto.base_url + hash + ".md");
+            window.open(ditto.base_url + hash + ".md?v=" + Math.random());
             // open is better than redirecting, as the previous page history
             // with redirect is a bit messed up
         });
@@ -335,15 +335,15 @@ function page_getter() {
     // default page if hash is empty
     var current_page = location.pathname.split("/").pop();
     if (current_page === "index.html") {
-        path = location.pathname.replace("index.html", ditto.index);
+        path = location.pathname.replace("index.html", ditto.index + "?v=" + Math.random());
         normalize_paths();
 
     } else if (path === "") {
-        path = window.location + ditto.index;
+        path = window.location + ditto.index + "?v=" + Math.random();
         normalize_paths();
 
     } else {
-        path = path + ".md";
+        path = path + ".md?v=" + Math.random();
 
     }
 

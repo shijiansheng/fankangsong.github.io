@@ -1,7 +1,7 @@
 
 ## 手册
 
-[CSS速查表](/tools/css-cheat-sheet) / [caniuser](//caniuse.com) / [css family中文对照](/tools/css-family-chinese.html) / [前端技能汇总](https://github.com/JacksonTian/fks) / [HTML head头标签](http://fex.baidu.com/blog/2014/10/html-head-tags/)
+[CSS速查表](/tools/css-cheat-sheet) / [caniuser](//caniuse.com) / [css family中文对照](/tools/css-family-chinese.html) / [前端技能汇总](https://github.com/JacksonTian/fks) / [HTML head头标签](http://fex.baidu.com/blog/2014/10/html-head-tags/) / [中文文案排版指北](//github.com/sparanoid/chinese-copywriting-guidelines)
 
 ---------------------------------
 

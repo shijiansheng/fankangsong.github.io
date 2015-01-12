@@ -10,6 +10,13 @@
 	export CLICOLOR=1
 	# \h:\W \u\$
 	export PS1='\[\033[01;33m\]\u@\h\[\033[01;31m\] \W\$\[\033[00m\] '
+
+	# 浅色
+	export LSCOLORS=GxFxCxDxBxegedabagaced
+
+	#export LSCOLORS=ExFxCxDxBxegedabagacad
+	
+	#export LSCOLORS=GxFxCxDxBxegedabagaced
 	
 然后再终端设置里，选择一个主题，改下背景色。
 

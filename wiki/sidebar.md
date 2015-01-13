@@ -32,9 +32,9 @@
 	- [树莓派安装node](#docs/linux/树莓派安装node)
 	- [npm镜像](#docs/linux/npm镜像)
 - [iftop的filter命令详解](#docs/linux/iftop的filter命令详解)
-- [iptables常用命令](/#odcs/linux/iptables常用命令)
-- [ssh日志](/#odcs/linux/ssh日志)
-- [手动绑定IP](/#odcs/linux/手动绑定IP)
+- [iptables常用命令](/#docs/linux/iptables常用命令)
+- [ssh日志](/#docs/linux/ssh日志)
+- [手动绑定IP](/#docs/linux/手动绑定IP)
 
 
 ## 工具

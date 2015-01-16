@@ -30,3 +30,7 @@
 [移动开发工具整理](https://github.com/jtyjty99999/mobileTech)
 
 
+##框架/库
+- [Web App的零框架解决方案](https://github.com/ruanyf/articles/blob/master/2015/2015-01-16-zero-framework.md)
+
+	ES6的到来，使得JavaScript语言有了原生的模块解决方案。于是，开发者有了另一种选择，就是不使用MVC框架，只使用各种单一用途的模块库，组合完成一个项目。下面是可供选择的各种用途的模块列表，摘自Andy Walpole的《2015: The End of the Monolithic JavaScript Framework》。

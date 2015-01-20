@@ -10,7 +10,7 @@
 
 ## 任务
 
-	crontabs -e 编辑任务
+	crontab -e 编辑任务
 
 ### 格式
 

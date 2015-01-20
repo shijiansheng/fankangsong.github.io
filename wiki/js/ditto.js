@@ -105,6 +105,16 @@ function init_searchbar() {
 
     // add search listener
     $("input[name=" + ditto.search_name + "]").keydown(searchbar_listener);
+
+    var sidebar_lists = $('h2 ~ ul');
+    var sidebar_titles = $('h2');
+    sidebar_lists.addClass('hide')
+    sidebar_titles.each(function(i){
+    	$(this).click(function(){
+    		$(this).toggleClass('on');
+    		sidebar_lists.eq(i).toggleClass('hide');
+    	})
+    })
 }
 
 function build_text_matches_html(fragments) {

@@ -7,7 +7,7 @@
 	- [CSS常用组合](#docs/html-css/CSS常用组合)
 	- [webapp注意的几点](#docs/html-css/webapp注意的几点)
 - HTML
-	- [常用的_html_头部标签](#docs/html-css/常用的_html_头部标签)
+	- [常用的HTML头部标签](#docs/html-css/常用的_html_头部标签)
 	- [定义IE的文档兼容模式](#docs/html-css/定义IE的文档兼容模式)
 - [前端字体](#docs/html-css/前端字体)
 - [移动端浏览器长按链接弹框](#docs/html-css/移动端浏览器长按链接弹框)

@@ -17,7 +17,7 @@
 - [微信openid](#docs/javascript/微信openid)
 - Backbone.js
 	- [Backbone处理同一视图中的DOM事件](#docs/javascript/Backbone处理同一视图中的DOM事件)
-- [Javascript 正则常用方法](#docs/javascript/Javascript正则常用方法.md)
+- [Javascript 正则常用方法](#docs/javascript/Javascript正则常用方法)
 
 ## Linux
 - Nginx

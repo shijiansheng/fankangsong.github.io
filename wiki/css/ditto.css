@@ -2,7 +2,7 @@ html,body{
     margin: 0;
     padding: 0;
     min-height: 100%;
-    font: 14px/1.5 san-serif;
+    font: 14px/1.5 Georgia,'Times New Roman',Times,serif;
     color: #555
 }
 
@@ -37,6 +37,9 @@ pre > code{
 h1,h2,h3,h4,h5,h6{
     color: #000
 }
+.hide{
+    display: none
+}
 
 .sidebar {
     width: 320px;
@@ -48,7 +51,7 @@ h1,h2,h3,h4,h5,h6{
     font-size: 13px;
     background-color: #333;
     color: #ccc;
-    font-family: sans-serif;
+    font-family:  verdana, arial, 'Microsoft Yahei', sans-serif;
     font-weight: bold
 }
 .sidebar #sidebar{
@@ -60,10 +63,15 @@ h1,h2,h3,h4,h5,h6{
     font-size: 14px;
     margin-top: 10px;
     margin-bottom: 10px;
-    padding: 0 10px;
+    padding: 5px 10px;
     color: #ccc;
     font-weight: bold;
-    background-color: rgba(0, 0, 0, .1)
+    background-color: rgba(0, 0, 0, .2);
+    cursor: pointer;
+    transition: all .3s;
+}
+.sidebar .on{
+    background-color: rgba(0, 0, 0, .7) !important;
 }
 .sidebar hr{
 }
@@ -109,6 +117,7 @@ h1,h2,h3,h4,h5,h6{
     text-align: center;
     cursor: pointer;
     font-size: 14px;
+    font-family:  verdana, arial, 'Microsoft Yahei', sans-serif;
 }
 .btn:hover{
     background-color: #f1f1f1;

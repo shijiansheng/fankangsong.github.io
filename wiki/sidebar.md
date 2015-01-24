@@ -7,7 +7,7 @@
 	- [CSS常用组合](#docs/html-css/CSS常用组合)
 	- [webapp注意的几点](#docs/html-css/webapp注意的几点)
 - HTML
-	- [常用的_html_头部标签](#docs/html-css/常用的_html_头部标签)
+	- [常用的HTML头部标签](#docs/html-css/常用的_html_头部标签)
 	- [定义IE的文档兼容模式](#docs/html-css/定义IE的文档兼容模式)
 - [前端字体](#docs/html-css/前端字体)
 - [移动端浏览器长按链接弹框](#docs/html-css/移动端浏览器长按链接弹框)
@@ -37,22 +37,19 @@
 - [ssh日志](#docs/linux/ssh日志)
 - [手动绑定IP](#docs/linux/手动绑定IP)
 - [iptables垃圾邮件规则](#docs/linux/iptables垃圾邮件规则)
-
-
-## 工具
-- [我的工具](#docs/tools/我的工具)
+- [定时任务crontab](#docs/linux/定时任务crontab)
 
 ## 效率
 - OS X
-	- [OSX记不住的命令md](#docs/efficient/OSX记不住的命令md)
-	- [OSX在当前目录打开终端](#docs/efficient/OSX在当前目录打开终端)
-	- [简单配置终端配色for_os_x](#docs/efficient/简单配置终端配色for_os_x)
-	- [virtualbox无法识别移动硬盘解决方法](#docs/efficient/virtualbox无法识别移动硬盘解决方法)
+	- [OSX记不住的命令md](#docs/tools/OSX记不住的命令md)
+	- [OSX在当前目录打开终端](#docs/tools/OSX在当前目录打开终端)
+	- [简单配置终端配色for_os_x](#docs/tools/简单配置终端配色for_os_x)
+	- [virtualbox无法识别移动硬盘解决方法](#docs/tools/virtualbox无法识别移动硬盘解决方法)
 - Sublime Text
-	- [Sublime Text常用插件、配置](#docs/efficient/Sublime Text常用插件、配置)
-	- [在Sublime Text编辑Evernote](#docs/efficient/在Sublime Text编辑Evernote)
+	- [Sublime Text常用插件、配置](#docs/tools/Sublime Text常用插件、配置)
+	- [在Sublime Text编辑Evernote](#docs/tools/在Sublime Text编辑Evernote)
 - vim
-	- [vimrc](#docs/efficient/vimrc)
-	- [vim安装Markdown语法高亮](#docs/efficient/vim安装Markdown语法高亮)
-	- [vim常用快捷键](#docs/efficient/vim常用快捷键)
-- [为github账户生成ssh_key](#docs/efficient/为github账户生成ssh_key)
+	- [vimrc](#docs/tools/vimrc)
+	- [vim安装Markdown语法高亮](#docs/tools/vim安装Markdown语法高亮)
+	- [vim常用快捷键](#docs/tools/vim常用快捷键)
+- [为github账户生成ssh_key](#docs/tools/为github账户生成ssh_key)

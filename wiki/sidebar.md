@@ -19,6 +19,12 @@
 	- [Backbone处理同一视图中的DOM事件](#docs/javascript/Backbone处理同一视图中的DOM事件)
 - [Javascript 正则常用方法](#docs/javascript/Javascript正则常用方法)
 
+## Mysql
+- [mysql常用语句](#docs/server/mysql常用语句)
+
+## PHP
+- []()
+
 ## Linux
 - Nginx
 	- [Nginx常用配置](#docs/linux/Nginx常用配置)

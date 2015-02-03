@@ -7,7 +7,7 @@
 
 ## 工具
 
-[正则表达式 在线测试](http://tool.oschina.net/regex) / [HTML转义](http://www.htmlescape.net/htmlescape_tool.html) / [在线格式化](http://tool.oschina.net/codeformat/) / [图片占位（内部）](http://tacs.oa.com/img.php?255x175) / [CSS三角生成](/tools/css-triangle-generator/) / [media query](/tools/css-media-query-device/)
+[正则表达式 在线测试](http://tool.oschina.net/regex) / [HTML转义](http://www.htmlescape.net/htmlescape_tool.html) / [在线格式化](http://tool.oschina.net/codeformat/) / [图片占位（内部）](http://tacs.oa.com/img.php?255x175) / [CSS三角生成](/tools/css-triangle-generator/) / [media query](/tools/css-media-query-device/) / [1024程序员工具](http://1024tools.com/)
 
 
 ---------------------------------

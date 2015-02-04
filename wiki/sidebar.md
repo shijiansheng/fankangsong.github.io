@@ -33,6 +33,7 @@
 	- [windows_下_nginx启动、停止命令](#docs/linux/windows_下_nginx启动、停止命令)
 	- [正确配置Nginx 404错误](#docs/linux/正确配置Nginx 404错误)
 	- [nginx日志分割](#docs/linux/nginx日志分割)
+	- [nginx反向代理80端口](#docs/linux/nginx反向代理80端口)
 - 安全、用户
 	- [denyhosts屏蔽本地ip的解决办法](#docs/linux/denyhosts屏蔽本地ip的解决办法)
 	- [登录记录](#docs/linux/登录记录)

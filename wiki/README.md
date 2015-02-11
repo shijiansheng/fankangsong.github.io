@@ -23,6 +23,7 @@
 - [http://chrispederick.com/work/web-developer/](http://chrispederick.com/work/web-developer/)
 - [https://developers.google.com/speed/pagespeed/insights/](https://developers.google.com/speed/pagespeed/insights/)
 - [HTML单元测试](https://www.tenpay.com/v2/labs/wrtb/index.shtml)
+- [跨屏调试browsersync](http://www.browsersync.io/)
 
 ---------------------------------
 

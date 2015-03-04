@@ -6,6 +6,7 @@
 - HTML
 	- [常用的HTML头部标签](#docs/html-css/常用的_html_头部标签)
 	- [定义IE的文档兼容模式](#docs/html-css/定义IE的文档兼容模式)
+	- [关于X-UA-Compatible设置IE浏览器模式edge不生效的问题](#/docs/html-css/关于X-UA-Compatible设置IE浏览器模式edge不生效的问题)
 - [前端字体](#docs/html-css/前端字体)
 - [移动端浏览器长按链接弹框](#docs/html-css/移动端浏览器长按链接弹框)
 - [firefox字体跨域](#docs/html-css/firefox字体跨域)

@@ -32,7 +32,11 @@ code{
     padding: 2px 4px
 }
 pre > code{
-
+}
+blockquote{
+    border-left: 2px solid #f3f3f3;
+    padding-left: 10px;
+    color: #888
 }
 h1,h2,h3,h4,h5,h6{
     color: #000
@@ -92,8 +96,6 @@ h1,h2,h3,h4,h5,h6{
 .sidebar a:hover{
     color: #f9f9f9;
 }
-
-
 .content {
     margin-left: 340px;
     margin-right: 20px;
@@ -102,9 +104,6 @@ h1,h2,h3,h4,h5,h6{
     text-align: justify;
     color: #555
 }
-
-
-
 .btn{
     display: inline-block;
     height: 30px;
@@ -126,9 +125,7 @@ h1,h2,h3,h4,h5,h6{
 #edit{
     display: none;
     position: fixed;
-
     width: 70px;
-    
     top: 20px;
     right: 20px;
 }
@@ -136,17 +133,12 @@ h1,h2,h3,h4,h5,h6{
 #edit {
     top: 60px;
 }
-
-
 #loading, #error {
     display: none;
     position: fixed;
-
     height: 17px;
     top: 45%;
-
     margin-left: 560px;
-
     font-size: 14px;
     font-weight: bold;
     z-index: 1
@@ -162,19 +154,12 @@ input[type=search] {
     margin-left: 25px;
     outline: none
 }
-
-.search_results{
-
-
-}
 .search_results ul,
 .search_results li{
     margin: 0;
     padding: 0;
     list-style: none
 }
-
-
 .search_results .link {
     margin-top: 35px;
     font-style: 16px;
@@ -185,14 +170,9 @@ input[type=search] {
 .search_results .link:hover{
     color: #d14
 }
-
-
-
 #hide {
     display: none;
 }
-
-
 table{
     border-collapse: collapse;
 }
@@ -204,7 +184,3 @@ table td{
     padding: 4px 8px;
     border: 1px solid #ccc;
 }
-
-
-
-

@@ -33,7 +33,7 @@
 - [web-developer for Chrome](http://chrispederick.com/work/web-developer/)
 - [HTML单元测试](https://www.tenpay.com/v2/labs/wrtb/index.shtml)
 - [iddler是一款功能类似于http://fiddler2.com/的Chrome扩展，主要是方便Mac用户进行调试](http://welefen.github.io/Fiddler/)
-
+- [如何在 Mac 下使用 Fiddler](https://www.imququ.com/post/user-fiddler-on-macos.html)
 ---------------------------------
 
 ## 移动

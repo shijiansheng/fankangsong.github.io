@@ -1,13 +1,23 @@
 
 ## 手册
 
-[CSS速查表](/tools/css-cheat-sheet) / [caniuser](//caniuse.com) / [css family中文对照](/tools/css-family-chinese.html) / [前端技能汇总](https://github.com/JacksonTian/fks) / [HTML head头标签](http://fex.baidu.com/blog/2014/10/html-head-tags/) / [中文文案排版指北](//github.com/sparanoid/chinese-copywriting-guidelines)
+- [CSS速查表](/tools/css-cheat-sheet)[caniuser](//caniuse.com)
+- [css family中文对照](/tools/css-family-chinese.html)
+- [前端技能汇总](https://github.com/JacksonTian/fks)
+- [HTML head头标签](http://fex.baidu.com/blog/2014/10/html-head-tags/)
+- [中文文案排版指北](//github.com/sparanoid/chinese-copywriting-guidelines)
 
 ---------------------------------
 
-## 工具
+## 常用在线工具
 
-[正则表达式 在线测试](http://tool.oschina.net/regex) / [HTML转义](http://www.htmlescape.net/htmlescape_tool.html) / [在线格式化](http://tool.oschina.net/codeformat/) / [图片占位（内部）](http://tacs.oa.com/img.php?255x175) / [CSS三角生成](/tools/css-triangle-generator/) / [media query](/tools/css-media-query-device/) / [1024程序员工具](http://1024tools.com/)
+- [正则表达式 在线测试](http://tool.oschina.net/regex)
+- [HTML转义](http://www.htmlescape.net/htmlescape_tool.html)
+- [在线格式化](http://tool.oschina.net/codeformat/)
+- [图片占位（内部）](http://tacs.oa.com/img.php?255x175)
+- [CSS三角生成](/tools/css-triangle-generator/)
+- [media query](/tools/css-media-query-device/)
+- [1024程序员工具](http://1024tools.com/)
 
 
 ---------------------------------
@@ -20,17 +30,21 @@
 
 ## 调试工具
 
-- [http://chrispederick.com/work/web-developer/](http://chrispederick.com/work/web-developer/)
-- [https://developers.google.com/speed/pagespeed/insights/](https://developers.google.com/speed/pagespeed/insights/)
+- [web-developer for Chrome](http://chrispederick.com/work/web-developer/)
 - [HTML单元测试](https://www.tenpay.com/v2/labs/wrtb/index.shtml)
-- [跨屏调试browsersync](http://www.browsersync.io/)
-
+- [iddler是一款功能类似于http://fiddler2.com/的Chrome扩展，主要是方便Mac用户进行调试](http://welefen.github.io/Fiddler/)
+- [如何在 Mac 下使用 Fiddler](https://www.imququ.com/post/user-fiddler-on-macos.html)
 ---------------------------------
 
 ## 移动
 
-[移动开发工具整理](https://github.com/jtyjty99999/mobileTech)
+- [移动开发工具整理](https://github.com/jtyjty99999/mobileTech)
+- [跨屏调试browsersync](http://www.browsersync.io/)
 
+
+## 性能
+
+- [google insights](https://developers.google.com/speed/pagespeed/insights/)
 
 ##框架/库
 - [Web App的零框架解决方案](https://github.com/ruanyf/articles/blob/master/2015/2015-01-16-zero-framework.md)

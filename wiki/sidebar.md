@@ -47,6 +47,7 @@
 - [iptables垃圾邮件规则](#docs/linux/iptables垃圾邮件规则)
 - [手动绑定IP](#docs/linux/手动绑定IP)
 - [使用lrzsz在终端上传下载文件](#docs/linux/使用lrzsz在终端上传下载文件)
+- [CURL](#docs/linux/curl)
 
 ## 效率
 - OS X

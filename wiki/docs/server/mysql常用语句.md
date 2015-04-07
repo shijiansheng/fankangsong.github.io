@@ -11,7 +11,10 @@
 ## show
 
 	show tables; /* 所有的表 */
-	show tables TABLENAME; /* 显示所有TABLENAME的字段 */
+	show create tables TABLENAME; /* 显示所有TABLENAME的字段 */
+
+## desc
+	desc TABLENAME /* 显示表字段 */
 
 ## update
 
@@ -20,3 +23,7 @@
 ## select
 
 	select * from TABLENAME where id=1; /* 显示TABLENAME的id=1的所有字段和值 */
+
+## delete
+
+	delete from TABLENAME where id=1; /* 删除id=1 行 */

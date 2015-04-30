@@ -20,7 +20,7 @@
 
 设置 iTerm
 
-![](//fankangsong.github.io/wiki/docs/assets/3832984841.png)
+![](http://fankangsong.github.io/wiki/docs/assets/3832984841.png)
 
 
 

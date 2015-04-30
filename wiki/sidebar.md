@@ -55,6 +55,7 @@
 	- [OSX在当前目录打开终端](#docs/tools/OSX在当前目录打开终端)
 	- [简单配置终端配色for_os_x](#docs/tools/简单配置终端配色for_os_x)
 	- [virtualbox无法识别移动硬盘解决方法](#docs/tools/virtualbox无法识别移动硬盘解决方法)
+	- [在 Mac 上使用 lszrz](#docs/tools/在 Mac 上使用 lszrz)
 - Sublime Text
 	- [Sublime Text常用插件、配置](#docs/tools/Sublime Text常用插件、配置)
 	- [在Sublime Text编辑Evernote](#docs/tools/在Sublime Text编辑Evernote)

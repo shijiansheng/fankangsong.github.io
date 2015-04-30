@@ -20,7 +20,8 @@
 
 设置 iTerm
 
-![../assets/3832984841.png]()
+![](docs/assets/3832984841.png)
+
 
 
 参考：[https://github.com/mmastrac/iterm2-zmodem](https://github.com/mmastrac/iterm2-zmodem)

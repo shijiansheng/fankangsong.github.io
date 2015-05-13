@@ -13,6 +13,7 @@
 - CSS
 	- [CSS常用组合](#docs/html-css/CSS常用组合)
 	- [webapp注意的几点](#docs/html-css/webapp注意的几点)
+	- [中文排版](#docs/html-css/中文排版)
 
 ## JavaScript
 - [微信openid](#docs/javascript/微信openid)

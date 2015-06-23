@@ -47,3 +47,12 @@
         proxy_pass http://nodejs;
         proxy_redirect off;
     }
+
+
+**Ningx 跳转8080端口到443
+
+    server {
+        listen 8000;
+        server_name pi.imfer.me;
+        rewrite ^(.*) https://pi.imfer.me$1 permanent;
+    }

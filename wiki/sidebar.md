@@ -21,6 +21,7 @@
 	- [Backbone处理同一视图中的DOM事件](#docs/javascript/Backbone处理同一视图中的DOM事件)
 - [Javascript 正则常用方法](#docs/javascript/Javascript正则常用方法)
 - [window.performance 详解](#docs/javascript/window.performance 详解)
+- [js模版解析](#docs/javascript/js模版)
 
 ## NODEJS
 - [树莓派安装node](#docs/linux/树莓派安装node)

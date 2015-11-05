@@ -51,6 +51,7 @@
 - [手动绑定IP](#docs/linux/手动绑定IP)
 - [使用lrzsz在终端上传下载文件](#docs/linux/使用lrzsz在终端上传下载文件)
 - [CURL](#docs/linux/curl)
+- [unzip 命令](#docs/linux/unzip 命令)
 
 ## 效率
 - OS X

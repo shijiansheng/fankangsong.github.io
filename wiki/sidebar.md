@@ -52,6 +52,7 @@
 - [使用lrzsz在终端上传下载文件](#docs/linux/使用lrzsz在终端上传下载文件)
 - [CURL](#docs/linux/curl)
 - [unzip 命令](#docs/linux/unzip 命令)
+- [ffmpeg](#docs/linux/ffmpeg)
 
 ## 效率
 - OS X

@@ -527,21 +527,33 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 104.0,
+		"height": 392.0,
 		"last_filter": "git: push",
 		"selected_items":
 		[
 			[
 				"git: push",
-				"Git: Push Tags"
+				"Git: Push"
+			],
+			[
+				"git: comm",
+				"Git: Quick Commit"
+			],
+			[
+				"git: com",
+				"Git: Commit"
+			],
+			[
+				"git: add",
+				"Git: Add..."
+			],
+			[
+				"git: pull",
+				"Git: Pull"
 			],
 			[
 				"git: co",
 				"Git: Quick Commit"
-			],
-			[
-				"git: add",
-				"Git: Add Current File"
 			],
 			[
 				"git",
@@ -828,12 +840,13 @@
 		"/E/github/fankangsong.github.io",
 		"/E/github/fankangsong.github.io/wiki",
 		"/E/github/fankangsong.github.io/wiki/css",
-		"/E/github/fankangsong.github.io/wiki/docs",
-		"/E/github/fankangsong.github.io/wiki/docs/assets",
-		"/E/github/fankangsong.github.io/wiki/docs/tools"
+		"/E/github/fankangsong.github.io/wiki/docs"
 	],
 	"file_history":
 	[
+		"/E/github/fankangsong.github.io/wiki/docs/linux/unzip 命令.md",
+		"/E/github/fankangsong.github.io/wiki/sidebar.md",
+		"/E/github/fankangsong.github.io/.gitignore",
 		"/E/github/fankangsong.github.io/wiki/docs/tools/vim常用快捷键.md",
 		"/D/Program Files/Sublime Text 3/Data/Packages/Evernote/Evernote.sublime-settings",
 		"/E/github/fankangsong.github.io/wiki/css/ditto.css",
@@ -958,10 +971,7 @@
 		"/E/workspace/qcloud_console_proj/branches/capi/server/qcconsole/views/index.ejs",
 		"/E/workspace/qcloud_console_proj/branches/capi/qcconsole_web/app/zh/modules/market/index/index.js",
 		"/E/workspace/qcloud_console_proj/branches/capi/qcconsole_web/nmc/widget/dropdown.js",
-		"/E/workspace/qcloud_console_proj/branches/capi/qcconsole_web/nmc/widget/selector.js",
-		"/E/workspace/qcloud_console_proj/branches/capi/qcconsole_web/app/zh/modules/vpc2/DropDown.js",
-		"/E/workspace/qcloud_console_proj/branches/capi/qcconsole_web/app/zh/modules/cvm/image/image.js",
-		"/E/workspace/qcloud_console_proj/branches/capi/qcconsole_web/app/zh/widget/region/region.js"
+		"/E/workspace/qcloud_console_proj/branches/capi/qcconsole_web/nmc/widget/selector.js"
 	],
 	"find":
 	{
@@ -1229,7 +1239,7 @@
 	},
 	"output.git":
 	{
-		"height": 110.0
+		"height": 195.0
 	},
 	"output.markdown":
 	{

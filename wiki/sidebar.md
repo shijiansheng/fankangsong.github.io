@@ -13,12 +13,15 @@
 - CSS
 	- [CSS常用组合](#docs/html-css/CSS常用组合)
 	- [webapp注意的几点](#docs/html-css/webapp注意的几点)
+	- [中文排版](#docs/html-css/中文排版)
 
 ## JavaScript
 - [微信openid](#docs/javascript/微信openid)
 - Backbone.js
 	- [Backbone处理同一视图中的DOM事件](#docs/javascript/Backbone处理同一视图中的DOM事件)
 - [Javascript 正则常用方法](#docs/javascript/Javascript正则常用方法)
+- [window.performance 详解](#docs/javascript/window.performance 详解)
+- [js模版解析](#docs/javascript/js模版)
 
 ## NODEJS
 - [树莓派安装node](#docs/linux/树莓派安装node)
@@ -48,6 +51,8 @@
 - [手动绑定IP](#docs/linux/手动绑定IP)
 - [使用lrzsz在终端上传下载文件](#docs/linux/使用lrzsz在终端上传下载文件)
 - [CURL](#docs/linux/curl)
+- [unzip 命令](#docs/linux/unzip 命令)
+- [ffmpeg](#docs/linux/ffmpeg)
 
 ## 效率
 - OS X

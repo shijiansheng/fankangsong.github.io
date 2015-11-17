@@ -27,3 +27,7 @@
 ## delete
 
 	delete from TABLENAME where id=1; /* 删除id=1 行 */
+
+## inster
+	
+	insert into TABLENAME (colum1, colum2) values ('1', '2');

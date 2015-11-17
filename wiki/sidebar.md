@@ -64,3 +64,4 @@
 	- [vim安装Markdown语法高亮](#docs/tools/vim安装Markdown语法高亮)
 	- [vim常用快捷键](#docs/tools/vim常用快捷键)
 - [为github账户生成ssh_key](#docs/tools/为github账户生成ssh_key)
+- [iterm2快捷键](#docs/tools/iterm2快捷键)

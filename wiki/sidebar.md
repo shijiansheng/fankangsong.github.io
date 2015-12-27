@@ -53,6 +53,7 @@
 - [CURL](#docs/linux/curl)
 - [unzip 命令](#docs/linux/unzip 命令)
 - [ffmpeg](#docs/linux/ffmpeg)
+- [rpi安装unrar](#docs/linux/rpi安装unrar)
 
 ## 效率
 - OS X

@@ -528,9 +528,33 @@
 	"command_palette":
 	{
 		"height": 392.0,
-		"last_filter": "git: push",
+		"last_filter": "gist",
 		"selected_items":
 		[
+			[
+				"gist",
+				"Gist: Embed as script"
+			],
+			[
+				"evernote:",
+				"Evernote: Show Attachments"
+			],
+			[
+				"",
+				"Evernote: Insert Attachment Here"
+			],
+			[
+				"evernote",
+				"Evernote: Open Evernote Note"
+			],
+			[
+				"ever",
+				"Evernote: List recent notes"
+			],
+			[
+				"git",
+				"Git: Status"
+			],
 			[
 				"git: push",
 				"Git: Push"
@@ -556,10 +580,6 @@
 				"Git: Quick Commit"
 			],
 			[
-				"git",
-				"Git: Commit"
-			],
-			[
 				"up",
 				"Evernote: Update Evernote Note"
 			],
@@ -570,10 +590,6 @@
 			[
 				"upd",
 				"Evernote: Update Evernote Note"
-			],
-			[
-				"evernote",
-				"Evernote: List recent notes"
 			],
 			[
 				"remove",
@@ -590,10 +606,6 @@
 			[
 				"insta",
 				"Package Control: Install Package"
-			],
-			[
-				"ever",
-				"Evernote: List recent notes"
 			],
 			[
 				"syntax",
@@ -673,10 +685,6 @@
 			],
 			[
 				"evern",
-				"Evernote: List recent notes"
-			],
-			[
-				"evernote:",
 				"Evernote: List recent notes"
 			],
 			[
@@ -844,8 +852,16 @@
 	],
 	"file_history":
 	[
-		"/E/github/fankangsong.github.io/wiki/docs/linux/unzip 命令.md",
+		"/c/users/colinfan/appdata/local/temp/node.js_v0.12-execsync-a-synchronous-api-for-child-processes.md",
+		"/c/users/colinfan/appdata/local/temp/tmp_73gzc.png",
+		"/D/Program Files/Sublime Text 3/Data/Packages/User/Gist.sublime-settings",
+		"/c/users/colinfan/appdata/local/temp/README.md",
+		"/c/users/colinfan/appdata/local/temp/pypod.py",
+		"/c/users/colinfan/appdata/local/temp/gistfile1.html",
+		"/D/Program Files/Sublime Text 3/Data/Packages/User/Git.sublime-settings",
+		"/E/github/fankangsong.github.io/wiki/docs/linux/ffmpeg.md",
 		"/E/github/fankangsong.github.io/wiki/sidebar.md",
+		"/E/github/fankangsong.github.io/wiki/docs/linux/unzip 命令.md",
 		"/E/github/fankangsong.github.io/.gitignore",
 		"/E/github/fankangsong.github.io/wiki/docs/tools/vim常用快捷键.md",
 		"/D/Program Files/Sublime Text 3/Data/Packages/Evernote/Evernote.sublime-settings",
@@ -963,15 +979,7 @@
 		"/E/workspace/qcloud_console_proj/branches/capi/qcconsole_web/app/zh/config/iframeRouter.js",
 		"/E/workspace/qcloud_console_proj/branches/capi/qcconsole_web/app/zh/modules/cvm/snapshot/snapshot.js",
 		"/E/workspace/qcloud_console_proj/branches/capi/qcconsole_web/app/zh/main/startup.js",
-		"/E/workspace/qcloud_console_proj/branches/capi/qcconsole_web/app/zh/config/notCheckCloudResource.js",
-		"/E/workspace/qcloud_console_proj/branches/capi/qcconsole_web/app/zh/modules/market/detail/detail.js",
-		"/E/workspace/qcloud_console_proj/branches/capi/qcconsole_web/app/zh/widget/cvmList/alias/alias.js",
-		"/E/workspace/qcloud_console_proj/branches/capi/qcconsole_web/app/zh/modules/developer/index/phone.js",
-		"/E/workspace/qcloud_console_proj/branches/capi/server/qcconsole/views/qcconsole_version.ejs",
-		"/E/workspace/qcloud_console_proj/branches/capi/server/qcconsole/views/index.ejs",
-		"/E/workspace/qcloud_console_proj/branches/capi/qcconsole_web/app/zh/modules/market/index/index.js",
-		"/E/workspace/qcloud_console_proj/branches/capi/qcconsole_web/nmc/widget/dropdown.js",
-		"/E/workspace/qcloud_console_proj/branches/capi/qcconsole_web/nmc/widget/selector.js"
+		"/E/workspace/qcloud_console_proj/branches/capi/qcconsole_web/app/zh/config/notCheckCloudResource.js"
 	],
 	"find":
 	{
@@ -1780,9 +1788,13 @@
 	"select_project":
 	{
 		"height": 500.0,
-		"last_filter": "",
+		"last_filter": "panshi",
 		"selected_items":
 		[
+			[
+				"panshi",
+				"E:\\workspace\\sublime_text\\panshi.sublime-project"
+			],
 			[
 				"",
 				"E:\\workspace\\sublime_text\\snapshot.sublime-project"

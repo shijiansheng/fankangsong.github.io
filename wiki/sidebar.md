@@ -71,3 +71,4 @@
 	- [vim常用快捷键](#docs/tools/vim常用快捷键)
 - [为github账户生成ssh_key](#docs/tools/为github账户生成ssh_key)
 - [iterm2快捷键](#docs/tools/iterm2快捷键)
+- [tmux命令](#docs/tools/tmux命令)

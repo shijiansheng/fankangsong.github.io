@@ -42,6 +42,7 @@
 	- [denyhosts屏蔽本地ip的解决办法](#docs/linux/denyhosts屏蔽本地ip的解决办法)
 	- [登录记录](#docs/linux/登录记录)
 	- [ssh日志](#docs/linux/ssh日志)
+	- [vps iptables 防火墙](#docs/linux/vps iptables 防火墙)
 - shell
 	- [shell 脚本](#docs/linux/shell 脚本)
 - [iftop的filter命令详解](#docs/linux/iftop的filter命令详解)
@@ -73,3 +74,4 @@
 - [为github账户生成ssh_key](#docs/tools/为github账户生成ssh_key)
 - [iterm2快捷键](#docs/tools/iterm2快捷键)
 - [tmux命令](#docs/tools/tmux命令)
+- [shadowsocks+polipo+Squid认证的http代理](#docs/tools/shadowsocks+polipo+Squid认证的http代理)

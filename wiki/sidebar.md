@@ -74,4 +74,4 @@
 - [为github账户生成ssh_key](#docs/tools/为github账户生成ssh_key)
 - [iterm2快捷键](#docs/tools/iterm2快捷键)
 - [tmux命令](#docs/tools/tmux命令)
-- [shadowsocks+polipo+Squid认证的http代理](#docs/tools/shadowsocks+polipo+Squid认证的http代理)
+- [shadowsocks+polipo+Squid认证的http代理](#docs/linux/shadowsocks+polipo+Squid认证的http代理)

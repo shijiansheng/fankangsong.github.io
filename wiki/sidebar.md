@@ -54,6 +54,7 @@
 - [unzip 命令](#docs/linux/unzip 命令)
 - [ffmpeg](#docs/linux/ffmpeg)
 - [rpi安装unrar](#docs/linux/rpi安装unrar)
+- [tar常用命令](#docs/tools/tar常用命令)
 
 ## 效率
 - OS X
